@@ -1,21 +1,25 @@
 ## 📸 Application Screenshots
 
-### 📊 Dashboard
+### 🏠 Home Page
 
-<img src="screenshots/dashboard.png" width="800"/>
+<img src="Snippts/Home_page.png" alt="Home Page" width="850"/>
 
-### ➕ Add Product
+### 📦 Product Page
 
-<img src="screenshots/add_product.png" width="800"/>
+<img src="Snippts/product_page.png" alt="Product Page" width="850"/>
 
-### 👀 View Products
+### 👀 Product View
 
-<img src="screenshots/view_products.png" width="800"/>
+<img src="Snippts/product_vew.png" alt="Product View" width="850"/>
 
 ### ✏️ Update Product
 
-<img src="screenshots/update_product.png" width="800"/>
+<img src="Snippts/update_page.png" alt="Update Product" width="850"/>
 
 ### 🗑️ Delete Product
 
-<img src="screenshots/delete_product.png" width="800"/>
+<img src="Snippts/delete_pageq.png" alt="Delete Product" width="850"/>
+
+### 🧹 Clean Page
+
+<img src="Snippts/clean_page.png" alt="Clean Page" width="850"/>
